@@ -1,0 +1,11 @@
+Cybersecurity Analyst Responsibilities:
+
+Now, we'll discuss three primary responsibilities of a security analyst, starting with protecting computer and network systems. Protecting computer and network systems requires an analyst to monitor an organization's internal network. If a threat is detected, then an analyst is generally the first to respond. Analysts also often take part in exercises to search for weaknesses in an organization's own systems.
+Play video starting at :1:2 and follow transcript1:02
+For example, a security analyst may contribute to penetration testing or ethical hacking. The goal is to penetrate or hack their own organization's internal network to identify vulnerabilities and suggest ways to strengthen their security measures.
+Play video starting at :1:19 and follow transcript1:19
+Think of it like this. After you lock your car, you check the door handles to make sure no one can access any valuables you keep inside.
+Play video starting at :1:28 and follow transcript1:28
+Security analysts also proactively work to prevent threats from happening in the first place. One way they do this is by working with information technology, or IT, teams to install prevention software for the purposes of identifying risks and vulnerabilities.
+Play video starting at :1:46 and follow transcript1:46
+Analysts may also be involved in software and hardware development. They'll often work with development teams to support product security by setting up appropriate processes and systems to meet the organization's data protection needs.
