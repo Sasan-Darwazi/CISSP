@@ -1,0 +1,14 @@
+Ransomware is a malicious attack where threat actors encrypt an organization's data then demand payment to restore access. Once ransomware is deployed by an attacker, it can freeze network systems, leave devices unusable, and encrypt, or lock confidential data, making devices inaccessible. The threat actor then demands a ransom before providing a decryption key to allow organizations to return to their normal business operations. Think of a decryption key as a password provided to regain access to your data. Note that when ransom negotiations occur or data is leaked by threat actors, these events can occur through the dark web.
+
+
+The surface web is the layer that most people use. It contains content that can be accessed using a web browser.
+
+The deep web generally requires authorization to access it. An organization's intranet is an example of the deep web, since it can only be accessed by employees or others who have been granted access.
+
+Lastly, the dark web can only be accessed by using special software. The dark web generally carries a negative connotation since it is the preferred web layer for criminals because of the secrecy that it provides.
+
+Now, let's discuss three key impacts of threats, risks, and vulnerabilities. The first impact we'll discuss is financial impact. When an organization's assets are compromised by an attack, such as the use of malware, the financial consequences can be significant for a variety of reasons.
+
+The second impact is identity theft. Organizations must decide whether to store private customer, employee, and outside vendor data, and for how long. Storing any type of sensitive data presents a risk to the organization. Sensitive data can include personally identifiable information, or PII, which can be sold or leaked through the dark web. 
+
+The last impact we'll discuss is damage to an organization's reputation. A solid customer base supports an organization's mission, vision, and financial goals. An exploited vulnerability can lead customers to seek new business relationships with competitors or create bad press that causes permanent damage to an organization's reputation.
