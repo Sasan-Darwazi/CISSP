@@ -1,0 +1,6 @@
+Logs:
+
+As a security analyst, one of your responsibilities might include analyzing log data to mitigate and manage threats, risks, and vulnerabilities. As a reminder, a log is a record of events that occur within an organization's systems and networks. Security analysts access a variety of logs from different sources. Three common log sources include firewall logs, network logs, and server logs. Let's explore each of these log sources in more detail. A firewall log is a record of attempted or established connections for incoming traffic from the Internet. It also includes outbound requests to the internet from within the network.
+
+
+A network log is a record of all computers and devices that enter and leave the network. It also records connections between devices and services on the network. Finally, a server log is a record of events related to services such as websites, emails, or file shares. It includes actions such as login, password, and username requests. By monitoring logs, like the one shown here, security teams can identify vulnerabilities and potential data breaches.
