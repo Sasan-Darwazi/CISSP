@@ -1,0 +1,17 @@
+IP Addresses:
+
+IP stands for internet protocol. An internet protocol address, or IP address, is a unique string of characters that identifies a location of a device on the Internet. Each device on the internet has a unique IP address, just like every house on a street has its own mailing address.
+
+There are two types of IP addresses: IP version 4, or IPv4, and IP version 6, or IPv6. Let's look at examples of an IPv4 address.
+
+IPv4 addresses are written as four 1, 2, or 3-digit numbers separated by a decimal point. In the early days of the internet, IP addresses were all IPV4. But as the use of the internet grew, all the IPv4 addresses started to get used up, so IPv6 was developed.
+
+IPv6 addresses are made up of 32 characters. The length of the IPv6 address will allow for more devices to be connected to the internet without running out of addresses as quickly as IPv4.
+
+IP addresses can be either public or private. Your internet service provider assigns a public IP address that is connected to your geographic location. When network communications go out from your device on the internet, they all have the same public-facing address. Just like all the roommates in one home share the same mailing address, all the devices on a network share the same public-facing IP address.
+
+
+Private IP addresses are only seen by other devices on the same local network. This means that all the devices on your home network can communicate with each other using unique IP addresses that the rest of the internet can't see.
+
+
+Another kind of address used in network communications is called a MAC address. A MAC address is a unique alphanumeric identifier that is assigned to each physical device on a network. When a switch receives a data packet, it reads the MAC address of the destination device and maps it to a port. It then keeps this information in a MAC address table. Think of the MAC address table like an address book that the switch uses to direct data packets to the appropriate device.
