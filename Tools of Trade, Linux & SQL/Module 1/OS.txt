@@ -1,0 +1,2 @@
+Linux is used in the security industry, and as a security professional, it's likely that you'll interact with the Linux OS. So what exactly is an operating system? It's the interface between the computer hardware and the user.
+The operating system, or the OS as it's commonly called, is responsible for making the computer run as efficiently as possible while also making it easy to use. Hardware may be another new term. Hardware refers to the physical components of a computer. The OS interface that we now rely on every day is something that early computers didn't have.
