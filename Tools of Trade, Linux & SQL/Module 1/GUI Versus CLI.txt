@@ -1,0 +1,10 @@
+GUI Versus CLI:
+
+ A user interface is a program that allows a user to control the functions of the operating system. Two user interfaces that we'll discuss are the graphical user interface, or GUI, and the command-line interface, or CLI.
+
+Let's cover these interfaces in more detail. A GUI is a user interface that uses icons on the screen to manage different tasks on the computer. Most operating systems can be used with a graphical user interface. If you've used a personal computer or a cell phone, you have experienced operating a GUI. Most GUIs include these components: a start menu with program groups, a taskbar for launching programs, and a desktop with icons and shortcuts. All these components help you communicate with the OS to execute tasks. In addition to clicking on icons, when you use a GUI, you can also search for files or applications from the start menu.
+
+In comparison, the command-line interface, or CLI, is a text-based user interface that uses commands to interact with the computer. These commands communicate with the operating system and execute tasks like opening programs. The command-line interface is a much different structure from the graphical user interface. When you use the CLI, you'll immediately notice a difference. There are no icons or graphics on the screen.
+
+
+When analyzing logs or authenticating and authorizing users, security analysts commonly use a CLI in their everyday work. 
