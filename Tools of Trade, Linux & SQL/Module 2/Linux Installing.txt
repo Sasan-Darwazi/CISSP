@@ -1,0 +1,47 @@
+Confirm that the APT package manager is installed in your Linux environment. To do this, type apt after the command-line prompt and press ENTER.
+
+In this task, you must install Suricata, a network analysis tool used for intrusion detection, and verify that it is installed correctly. Then, you’ll uninstall the application.
+
+Use the APT package manager to install the Suricata application.
+Type sudo apt install suricata after the command-line prompt and press ENTER.
+
+When prompted to continue, press the ENTER key to respond with the default response. (In this case, the default response is Yes.)
+
+Verify that Suricata is installed by running the newly installed application.
+Type suricata after the command-line prompt and press ENTER.
+
+Use the APT package manager to uninstall Suricata.
+Type sudo apt remove suricata after the command-line prompt and press ENTER. Press ENTER (Yes) when prompted to continue.
+
+Verify that Suricata has been uninstalled by rerunning the application command.
+Type suricata after the command-line prompt and press ENTER.
+
+
+In this task, you must install the tcpdump application. This is a command-line tool that can be used to capture network traffic in a Linux Bash shell.
+
+Use the APT package manager to install tcpdump.
+
+Type sudo apt install tcpdump after the command-line prompt and press ENTER.
+
+
+Task 4. List the installed applications
+Next, you need to confirm that you’ve installed the required applications. It's important to be able to validate that the correct applications are installed. Often you may want to check that the correct versions are installed as well.
+
+Use the APT package manager to list all installed applications.
+Type apt list --installed after the command-line prompt and press
+
+
+Task 5. Reinstall the Suricata application
+In this task, you must reinstall the Suricata application and verify that it has installed correctly.
+
+Run the command to install the Suricata application.
+Type sudo apt install suricata after the command-line prompt and press ENTER.
+
+The command to complete this step:
+
+
+When prompted to continue, press the ENTER key to respond with the default response. (In this case, the default response is Yes.)
+
+Use the APT package manager to list the installed applications.
+Type apt list --installed after the command-line prompt and press ENTER.
+

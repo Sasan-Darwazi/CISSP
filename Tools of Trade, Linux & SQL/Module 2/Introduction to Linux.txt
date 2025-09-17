@@ -1,0 +1,7 @@
+ Linux is an open-source operating system. It was created in two parts. In the early 1990s, two different people were working separately on projects to improve computer engineering. The first person was Linus Torvalds.
+
+At the time, the UNIX operating system was already in use. He wanted to improve it and make it open source and accessible to anyone. What was revolutionary was his introduction of the Linux kernel. We're going to learn what the kernel does later. Around the same time, Richard Stallman started working on GNU. GNU was also an operating system based on UNIX. Stallman shared Torvalds' goal of creating software that was free and open to anyone.
+
+Linux and many of the programs that come with Linux are licensed under the terms of the GNU Public License, which allow you to use, share, and modify them freely. Thanks to Linux's open-source philosophy as well as a strong feature set, an entire community of developers has adopted this operating system. These developers are able to collaborate on projects and advance computing together.
+
+You might examine different types of logs to identify what's going on in the system. For example, you might find yourself looking at an error log when investigating an issue. Another place where you will use Linux is to verify access and authorization in an identity and access management system. In security, managing access is key in order to ensure a secure system.
