@@ -1,0 +1,16 @@
+Asset Classification:
+
+Asset classification is the practice of labeling assets based on the sensitivity and importance to an organization. Organizations label assets differently. Many of them follow a basic classification scheme: public, internal-only, confidential, and restricted. Public assets can be shared with anyone. Internal-only can be shared with anyone in the organization but should not be shared outside of it. And confidential assets should only be accessed by those working on a specific project.
+
+Common asset classifications
+Asset classification helps organizations implement an effective risk management strategy. It also helps them prioritize security resources, reduce IT costs, and stay in compliance with legal regulations.
+
+The most common classification scheme is: restricted, confidential, internal-only, and public.
+
+Restricted is the highest level. This category is reserved for incredibly sensitive assets,  like need-to-know information.
+
+Confidential refers to assets whose disclosure may lead to a significant negative impact on an organization.
+
+Internal-only describes assets that are available to employees and business partners.
+
+Public is the lowest level of classification. These assets have no negative consequences to the organization if they’re released.
