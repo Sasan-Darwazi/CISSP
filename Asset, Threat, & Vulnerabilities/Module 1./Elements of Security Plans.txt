@@ -1,0 +1,16 @@
+Elements of Security Plans:
+
+
+That's what security plans are for! Plans come in many shapes and sizes, but they all share a common goal: to be prepared for risks when they happen. Placing the focus on people is what leads to the most effective security plans. 
+
+Most security plans address risks by breaking them down according to categories and factors. Some common risk categories might include, the damage, disclosure, or loss of information.
+
+But how these plans are communicated is similar across industries. Security plans consist of three basic elements: policies, standards, and procedures. These three elements are how companies share their security plans. These words tend to be used interchangeably outside of security, but you'll soon discover that they each have a very specific meaning and function in this context. A policy in security is a set of rules that reduce risk and protects information. Policies are the foundation of every security plan. They give everyone in and out of an organization guidance by addressing questions like, what are we protecting and why?
+
+
+Policies focus on the strategic side of things by identifying the scope, objectives, and limitations of a security plan. For instance, newly hired employees at many companies are required to sign off on acceptable use policy, or AUP. These provisions outline secure ways that an employee may access corporate systems. Standards are the next part. 
+
+In security, standards are references that inform how to set policies. A good way to think of standards is that they create a point of reference.
+
+
+For example, many companies use the password management standard identified in NIST Special Publication 800-63B to improve their security policies by specifying that employees' passwords must be at least eight characters long.
