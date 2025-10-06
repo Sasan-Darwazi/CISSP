@@ -1,0 +1,6 @@
+ Security teams protect data in three different states: in use, in transit, and at rest. Let's investigate this idea in greater detail. Data in use is data being accessed by one or more users.
+
+Imagine being at a park with your laptop. It's a nice sunny day, and you stop at a bench to check your email. This is an example of data in use. As soon as you log in, your inbox is considered to be in use. Next, is data in transit. Data in transit is data traveling from one point to another. While you're signed into your account, a message from one of your friends appears.
+
+
+They sent you an interesting article about the growing security industry. You decide to reply, thanking them for sending this to you. When you click send, this is now an example of data in transit. Finally, there's data at rest. Data at rest is data not currently being accessed. In this state, data is typically stored on a physical device. An example of data at rest would be when you finish checking your email and close your laptop.
