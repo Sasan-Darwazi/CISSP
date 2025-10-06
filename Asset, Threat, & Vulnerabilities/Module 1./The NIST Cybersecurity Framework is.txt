@@ -1,0 +1,10 @@
+The NIST Cybersecurity Framework is a voluntary framework that consists of standards, guidelines, and best practices to manage cybersecurity risk. Commonly known as the CSF, this framework was developed to help businesses secure one of their most important assets, information. The CSF consists of three main components: the core, it's tiers, and it's profiles. The core is basically a simplified version of the functions, or duties, of a security plan. The CSF core identifies five broad functions: identify, protect, detect, respond, and recover.
+
+The CSF tiers are a way of measuring the sophistication of an organization's cybersecurity program.
+Tiers range from Level-1 to Level-4. Level-1, or passive, indicates a function is reaching bare minimum standards. Level-4, or adaptive, is an indication that a function is being performed at an exemplary standard. You may have noticed that CSF tiers aren't a yes or no proposition; instead, there's a range of values.
+
+Lastly, profiles are the final component of CSF. These provide insight into the current state of a security plan. One way to think of profiles is like photos capturing a moment in time. Comparing photos of the same subject taken at different times can provide useful insights. For example, without these photos, you might not notice how this tree has changed. It's the same with NIST profiles.
+
+Compliance is the process of adhering to internal standards and external regulations. In other words, compliance is a way of measuring how well an organization is protecting their assets. The NIST Cybersecurity Framework (CSF) is a voluntary framework that consists of standards, guidelines, and best practices to manage cybersecurity risk. Organizations may choose to use the CSF to achieve compliance with a variety of regulations.
+
+Regulations are rules that must be followed, while frameworks are resources you can choose to use.
