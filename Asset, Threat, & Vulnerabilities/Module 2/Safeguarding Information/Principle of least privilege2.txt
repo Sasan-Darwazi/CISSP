@@ -1,0 +1,26 @@
+Principle of least privilege
+Security controls are essential to keeping sensitive data private and safe. One of the most common controls is the principle of least privilege, also referred to as PoLP or least privilege. The principle of least privilege is a security concept in which a user is only granted the minimum level of access and authorization required to complete a task or function.
+
+Least privilege is a fundamental security control that supports the confidentiality, integrity, and availability (CIA) triad of information.
+
+Auditing account privileges
+Setting up the right user accounts and assigning them the appropriate privileges is a helpful first step. Periodically auditing those accounts is a key part of keeping your company’s systems secure.
+
+There are three common approaches to auditing user accounts:
+
+Usage audits
+
+Privilege audits
+
+Account change audits
+
+As a security professional, you might be involved with any of these processes.
+
+Usage audits
+When conducting a usage audit, the security team will review which resources each account is accessing and what the user is doing with the resource. Usage audits can help determine whether users are acting in accordance with an organization’s security policies. They can also help identify whether a user has permissions that can be revoked because they are no longer being used.
+
+Privilege audits
+Users tend to accumulate more access privileges than they need over time, an issue known as privilege creep. This might occur if an employee receives a promotion or switches teams and their job duties change. Privilege audits assess whether a user's role is in alignment with the resources they have access to.
+
+Account change audits
+Account directory services keep records and logs associated with each user. Changes to an account are usually saved and can be used to audit the directory for suspicious activity, like multiple attempts to change an account password. Performing account change audits helps to ensure that all account changes are made by authorized users.
