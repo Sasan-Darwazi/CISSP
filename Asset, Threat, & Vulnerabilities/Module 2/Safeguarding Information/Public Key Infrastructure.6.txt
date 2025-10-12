@@ -1,0 +1,15 @@
+Public Key Infrastructure.
+
+Public key infrastructure, or PKI, is an encryption framework that secures the exchange of information online. It's a broad system that makes accessing information fast, easy, and secure. So, how does it all work?
+
+
+PKI is a two-step process. It all starts with the exchange of encrypted information. This involves either asymmetric encryption, symmetric encryption, or both. Asymmetric encryption involves the use of a public and private key pair for encryption and decryption of data. Let's imagine this as a box that can be opened with two keys. One key, the public key, can only be used to access the slot and add items to the box. Since the public key can't be used to remove items, it can be copied and shared with people all around the world to add items.
+
+This two-key system makes asymmetric encryption a secure way to exchange information online; however, it also slows down the process. Symmetric encryption, on the other hand, is a faster and simpler approach to key management. Symmetric encryption involves the use of a single secret key to exchange information. Let's imagine the locked box again.
+
+
+Instead of two keys, symmetric encryption uses the same key. The owner can use it to open the box, add items, and close it again. When they want to share access, they can give the secret key to anyone else to do the same. Exchanging a single secret key may make web communications faster, but it also makes it less secure. PKI uses both asymmetric and symmetric encryption, sometimes in conjunction with one another. It all depends on whether speed or security is the priority. For example, mobile chat applications use asymmetric encryption to establish a connection between people at the start of a conversation when security is the priority.
+
+PKI addresses the vulnerability of key sharing by establishing trust using a system of digital certificates between computers and networks.
+
+A digital certificate is a file that verifies the identity of a public key holder. Most online information is exchanged using digital certificates. Users, companies, and networks hold one and exchange them when communicating information online as a way of signaling trust.
