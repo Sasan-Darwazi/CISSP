@@ -1,0 +1,22 @@
+Symmetric and asymmetric encryption
+Previously, you learned these terms: 
+
+Encryption: the process of converting data from a readable format to an encoded format
+
+Public key infrastructure (PKI):  an encryption framework that secures the exchange of online information
+
+Cipher: an algorithm that encrypts information
+
+Types of encryption
+There are two main types of encryption:
+
+Symmetric encryption is the use of a single secret key to exchange information. Because it uses one key for encryption and decryption, the sender and receiver must know the secret key to lock or unlock the cipher.
+
+Asymmetric encryption is the use of a public and private key pair for encryption and decryption of data. It uses two separate keys: a public key and a private key. The public key is used to encrypt data, and the private key decrypts it. The private key is only given to users with authorized access.
+
+The importance of key length
+Ciphers are vulnerable to brute force attacks, which use a trial and error process to discover private information. This tactic is the digital equivalent of trying every number in a combination lock trying to find the right one. In modern encryption, longer key lengths are considered to be more secure. Longer key lengths mean more possibilities that an attacker needs to try to unlock a cipher.
+
+One drawback to having long encryption keys is slower processing times. Although short key lengths are generally less secure, they’re much faster to compute. Providing fast data communication online while keeping information safe is a delicate balancing act. 
+
+
