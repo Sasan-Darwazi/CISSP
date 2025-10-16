@@ -1,0 +1,13 @@
+Access Control:
+The next series of controls that we'll be exploring are access controls, the security controls that manage access, authorization, and accountability of information. When done well, access controls maintain data confidentiality, integrity, and availability. They also get users the information they need quickly. These systems are commonly broken down into three separate, yet related functions known as the authentication, authorization, and accounting framework.
+
+Authentication systems are access controls that serve a very basic purpose. They ask anything attempting to access information this simple question: who are you? Organizations go about collecting answers to these questions differently, depending on the objectives of their security policy. Some are more thorough than others, but in general, responses to this question can be based on three factors of authentication. The first is knowledge. Authentication by knowledge refers to something the user knows, like a password or the answer to a security question they provided previously.
+
+Another factor is ownership, referring to something the user possesses. A commonly used type of authentication by ownership is a one-time passcode, or OTP. You've probably experienced these at one time or another. They're a random number sequence that an application or website will send you via text or email and ask you to provide. Last is characteristic. Authentication by this factor is something the user is. Biometrics, like fingerprint scans on your smartphone, are example of this type of authentication.
+
+To make access systems more convenient, many organizations these days rely on single sign-on. Single sign-on, or SSO, is a technology that combines several different logins into one.
+
+
+Can you imagine having to reintroduce yourself every time you meet up with a friend? That's exactly the sort of problem SSO solves. Instead of requiring users to authenticate over and over again, SSO establishes their identity once, allowing them to gain access to company resources faster. While SSO systems are helpful when it comes to speeding up the authentication process, they present a significant vulnerability when used alone.
+
+Multi-factor authentication, or MFA, is a security measure, which requires a user to verify their identity in two or more ways to access a system or network. MFA combines two or more independent credentials, like knowledge and ownership, to prove that someone is who they claim to be. SSO and MFA are often used in conjunction with one another to layer the defense capabilities of authentication systems.
