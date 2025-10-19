@@ -1,0 +1,9 @@
+Attacker Mindset Practice:
+Security teams do this by thinking of each vector with an attacker mindset. This starts with a simple question, "how would we exploit this vector?" We then go through a step-by-step process to answer our question. 
+
+First, when practicing an attacker mindset, we identify a target. This could be specific information, a system, a person, a group, or the organization itself. Next, we determine how the target can be accessed. What information is available that an attacker might take advantage of to reach the target? Based on that information, the third step is to evaluate the attack vectors that can be exploited to gain entry. And finally, we find the tools and methods of attack. What will the attackers use to carry this out? 
+
+
+One key to defending attack vectors is educating users about security vulnerabilities. These efforts are usually tied to an event. For example, advising them about a new phishing exploit that is targeting users in the organization. Another rule is applying the principle of least privilege. 
+
+We've explored least privilege earlier in this section. It's the idea that access rights should be limited to what's required to perform a task. Like we previously explored, this practice closes multiple security holes inside an organization's attack surface. Next, using the right security controls and tools can go a long way towards defending attack vectors. Even the most knowledgeable employees make security mistakes, like accidentally clicking on a malicious link in an email. Having the right security tools in place, like antivirus software, helps to defend attack vectors more efficiently and reduce the risk of human error. Last but not least, is building a diverse security team. 
