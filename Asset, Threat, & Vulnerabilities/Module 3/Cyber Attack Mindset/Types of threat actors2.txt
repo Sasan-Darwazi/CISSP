@@ -1,0 +1,19 @@
+Types of threat actors
+Anticipating attacks is an important skill you’ll need to be an effective security professional. Developing this skill requires you to have an open and flexible mindset about where attacks can come from. Previously, you learned about attack surfaces, which are all the potential vulnerabilities that a threat actor could exploit.
+
+Networks, servers, devices, and staff are examples of attack surfaces that can be exploited. Security teams of all sizes regularly find themselves defending these surfaces due to the expanding digital landscape. The key to defending any of them is to limit access to them.
+
+Threat actors
+A threat actor is any person or group who presents a security risk. This broad definition refers to people inside and outside an organization. It also includes individuals who intentionally pose a threat, and those that accidentally put assets at risk. That’s a wide range of people!
+
+Threat actors are normally divided into five categories based on their motivations:
+
+Competitors refers to rival companies who pose a threat because they might benefit from leaked information.
+
+State actors are government intelligence agencies.
+
+Criminal syndicates refer to organized groups of people who make money from criminal activity.
+
+Insider threats can be any individual who has or had authorized access to an organization’s resources. This includes employees who accidentally compromise assets or individuals who purposefully put them at risk for their own benefit.
+
+Shadow IT refers to individuals who use technologies that lack IT governance. A common example is when an employee uses their personal email to send work-related communications.
