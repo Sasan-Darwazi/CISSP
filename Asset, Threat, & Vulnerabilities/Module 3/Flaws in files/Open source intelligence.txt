@@ -1,0 +1,42 @@
+Open source intelligence
+
+In this reading, you’ll learn about open-source intelligence, commonly known as OSINT. OSINT is the collection and analysis of information from publicly available sources to generate usable intelligence. It's commonly used to support cybersecurity activities, like identifying potential threats and vulnerabilities. 
+
+Information vs intelligence
+The terms intelligence and information are often used interchangeably, making it easy to mix them up. Both are important aspects of cybersecurity that differ in their focus and objectives.
+
+Information refers to the collection of raw data or facts about a specific subject. Intelligence, on the other hand, refers to the analysis of information to produce knowledge or insights that can be used to support decision-making.
+
+For example, new information might be released about an update to the operating system (OS) that's installed on your organization's workstations. Later, you might find that new cyber threats have been linked to this new update by researching multiple cybersecurity news resources. 
+
+Intelligence improves decision-making 
+Businesses often use information to gain insights into the behavior of their customers. Insights, or intelligence, can then be used to improve their decision making. In security, open-source information is used in a similar way to gain insights into threats and vulnerabilities that can pose risks to an organization.
+
+OSINT plays a significant role in information security (InfoSec), which is the practice of keeping data in all states away from unauthorized users.
+
+For example, a company's InfoSec team is responsible for protecting their network from potential threats. They might utilize OSINT to monitor online forums and hacker communities for discussions about emerging vulnerabilities. If they come across a forum post discussing a newly discovered weakness in a popular software that the company uses, the team can quickly assess the risk, prioritize patching efforts, and implement necessary safeguards to prevent an attack.
+
+Here are some of the ways OSINT can be used to generate intelligence:
+
+To provide insights into cyber attacks
+
+To detect potential data exposures
+
+To evaluate existing defenses
+
+To identify unknown vulnerabilities
+
+OSINT tools
+There's an enormous amount of open-source information online. Finding relevant information that can be used to gather intelligence is a challenge. Information can be gathered from a variety of sources, such as search engines, social media, discussion boards, blogs, and more. Several tools also exist that can be used in your intelligence gathering process. Here are just a few examples of tools that you can explore:
+
+VirusTotal
+ is a service that allows anyone to analyze suspicious files, domains, URLs, and IP addresses for malicious content.
+
+MITRE ATT&CK®
+ is a knowledge base of adversary tactics and techniques based on real-world observations.
+
+OSINT Framework
+ is a web-based interface where you can find OSINT tools for almost any kind of source or platform.
+
+Have I been Pwned
+ is a tool that can be used to search for breached email accounts.
