@@ -1,0 +1,13 @@
+A vulnerability assessment is the internal review process of an organization's security systems. These assessments work similar to the process of identifying and categorizing vulnerabilities on the CVE list. 
+Overall, the goal of a vulnerability assessment is to identify weak points and prevent attacks.
+
+Once they decide what to focus on, vulnerability assessments typically follow a four-step process. 
+
+The first step is identification. Here, scanning tools and manual testing are used to find vulnerabilities. During the identification step, the goal is to understand the current state of a security system, like taking a picture of it. 
+
+The next step of the process is vulnerability analysis. During this step, each of the vulnerabilities that were identified are tested. By being a digital detective, the goal of vulnerability analysis is to find the source of the problem. 
+
+The third step of the process is risk assessment. During this step of the process, a score is assigned to each vulnerability. This score is assigned based on two factors: how severe the impact would be if the vulnerability were to be exploited and the likelihood of this happening. 
+
+The fourth and final step of vulnerability assessment is remediation. It's during this step that the vulnerabilities that can impact the organization are addressed. 
+Remediation occurs depending on the severity score assigned during the risk assessment step. 
